@@ -1,0 +1,10 @@
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\bin\Debug\HorseRacing.exe.config
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\bin\Debug\HorseRacing.exe
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\bin\Debug\HorseRacing.pdb
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\obj\Debug\HorseRacing.csprojAssemblyReference.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\obj\Debug\HorseRacing.Form1.resources
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\obj\Debug\HorseRacing.Properties.Resources.resources
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\obj\Debug\HorseRacing.csproj.GenerateResource.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\obj\Debug\HorseRacing.csproj.CoreCompileInputs.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\obj\Debug\HorseRacing.exe
+E:\Dokumendid\TallinnaKutsekas\OOP\HorseRacingGame\HorseRacing\obj\Debug\HorseRacing.pdb
